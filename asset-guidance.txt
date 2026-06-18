@@ -19,3 +19,7 @@ KRONATRIX AI.SEO for Dentists social preview with Spencer Aurelius dentist masco
 
 Note:
 Use the upgraded transparent-background Spencer dentist mascot image as the main hero image. Keep it balanced on desktop and smaller on mobile so the CTA remains visible early. The mascot should sit inside a designed visual frame, not randomly beside the text.
+
+
+EMERGENCY FIX NOTE:
+The live site screenshot showed broken images because the /assets/ folder was probably not uploaded to GitHub. This fixed package includes duplicate key image files in the repo root and the HTML now references root image paths, so the logo and Spencer mascot load even if GitHub upload misses the assets folder. Still upload the assets folder too.
