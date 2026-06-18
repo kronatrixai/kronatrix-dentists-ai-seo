@@ -1,0 +1,21 @@
+# KRONATRIX Dentists Site Asset Guidance
+
+Recommended asset files:
+- kronatrix-k-logo.webp
+- favicon-32.png
+- favicon-64.png
+- apple-touch-icon.png
+- spencer-aurelius-dentist-kronatrix.webp
+- og-image.webp
+
+Mascot alt text:
+Spencer Aurelius, the KRONATRIX tiger mascot, dressed as a futuristic dentist holding a dental mirror for the AI.SEO for Dentists website
+
+Logo alt text:
+KRONATRIX K logo for AI.SEO websites
+
+Open Graph alt text:
+KRONATRIX AI.SEO for Dentists social preview with Spencer Aurelius dentist mascot
+
+Note:
+Use the upgraded transparent-background Spencer dentist mascot image as the main hero image. Keep it balanced on desktop and smaller on mobile so the CTA remains visible early. The mascot should sit inside a designed visual frame, not randomly beside the text.
