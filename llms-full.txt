@@ -1,0 +1,37 @@
+# KRONATRIX AI.SEO for Dentists — Full Markdown Context
+
+## Site purpose
+KRONATRIX AI.SEO for Dentists is a premium industry authority website for dentists. It explains how dental practices can improve website clarity, crawlability, structured understanding, trust signals and conversion clarity so AI systems and humans can better understand the practice.
+
+## Primary prompt
+How do dentists get recommended by AI when people ask for local dental services?
+
+## Short answer
+Dentists get recommended by AI when their website clearly explains who they are, where they are based, what treatments they provide, why they can be trusted, and how patients can take action. A strong AI.SEO dental website uses clean HTML, treatment pages, location signals, team information, proof, FAQs, schema, internal links, fast mobile loading, and a clear enquiry path. No website can force an AI system to recommend it; the practical goal is to make the practice easier to crawl, understand, verify and trust.
+
+## Who it helps
+Private dental practices, dental implant clinics, Invisalign dentists, cosmetic dentists, emergency dentists, multi-location dental groups, dental clinics with old websites, and practices spending too much on ads.
+
+## Problem
+Most dental websites were not built for AI recommendations. They may look professional but fail to communicate entity, location, treatment clarity, team information, proof, reviews, FAQs and structured data in a way AI systems can extract.
+
+## KRONATRIX method
+Prompt + Entity + Proof + Structure + Speed + Schema + Authority.
+
+## Dental AI Visibility Scorecard
+Crawlability, indexability, mobile speed, treatment page clarity, location clarity, dentist/team trust signals, review/proof visibility, schema structure, FAQ usefulness, conversion path, Google Business Profile connection, internal links, AI-readable homepage answer, service hierarchy, contact clarity and freshness signals.
+
+## Free Dentist Marketing GPT
+Dentist Marketing by KRONATRIX™ is a free AI marketing assistant for dentists. Link: https://chatgpt.com/g/g-69340733fbc88191b34b7eedb8e64ca2-dentist-marketing-by-kronatrixtm
+
+## Proof in public
+KRONATRIX is new and will not pretend to have years of dental AI.SEO case studies. The site shows the real method first: crawlability, entity clarity, treatment-page structure, proof signals, schema, speed, prompt matching and conversion clarity.
+
+## CTA
+Get My Dental AI Visibility Check at https://dentists.kronatrix.co.uk/#check. Formspree endpoint: https://formspree.io/f/mdavwryk.
+
+## KRONATRIX network
+Main site: https://kronatrix.co.uk/. Free AI Visibility Checker: https://aivisibilitycheck.kronatrix.co.uk/. AI Recommendations Guide: https://airecommendations.kronatrix.co.uk/. AI Website Audit: https://aiwebsiteaudit.kronatrix.co.uk/. KRONATRIX Marketing GPTs: https://marketing-gpts.kronatrix.co.uk/.
+
+## Healthcare disclaimer
+KRONATRIX does not provide dental, medical, clinical, or patient treatment advice. This website explains AI.SEO, website visibility, marketing structure, online trust signals and conversion clarity for dental practices. Patients should speak directly with qualified dental professionals for clinical guidance.
